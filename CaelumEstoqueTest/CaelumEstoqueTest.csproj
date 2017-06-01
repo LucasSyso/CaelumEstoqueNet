@@ -55,10 +55,10 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="LoginPageTest.cs" />
+    <Compile Include="Tests\LoginPageTest.cs" />
     <Compile Include="Pages\CaelumEstoquePage.cs" />
     <Compile Include="Pages\LoginPage.cs" />
-    <Compile Include="UsuarioTest.cs" />
+    <Compile Include="Tests\UsuarioTest.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
